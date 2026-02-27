@@ -1,6 +1,6 @@
 # CV Converter - Documentation
 
-	This repository is private due to contractual agreements with collaborating organizations.
+	This repository does not contain the source code due to contractual agreements with collaborating organizations.
 
 
 **AI-Powered CV Template Conversion Tool**
